@@ -1,5 +1,6 @@
 # Systems Neurobiologist at Boston University
-### davisrg@bu.edu
+### email: davisrg@bu.edu
+### lab website: https://sites.bu.edu/wallacelab/
 
 <!---
 davisreinaguerra/davisreinaguerra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
