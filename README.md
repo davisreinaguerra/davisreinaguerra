@@ -1,4 +1,4 @@
-# Systems Neurobiologist at Boston University
+# Anatomy and Neurobiology PhD Student at Boston University
 ### email: davisrg@bu.edu
 ### lab website: https://sites.bu.edu/wallacelab/
 
